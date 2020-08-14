@@ -18,6 +18,6 @@ def using_delete(array, string)
   array.delete(string)
 end 
 
-def uisng_delete_at(array, name)
+def using_delete_at(array, name)
   array.delete_at(name)
 end 
